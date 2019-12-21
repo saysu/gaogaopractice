@@ -1,0 +1,70 @@
+.btn-primary {
+  background-color: pink;
+  border-color: pink;
+}
+header.masthead {
+  background-image: url(../img/header-bg3.jpg);
+}
+#mainNav .navbar-brand {
+  color: pink;
+}
+#mainNav .navbar-toggler {
+  background-color: pink;
+}
+body {
+  color: pink;
+}
+img {
+ float: left;
+ margin: 60px 110px 0 10px;
+}
+.under {
+  padding: 100px;
+}
+section#contact {
+  /* background-color: #212529; */
+  background-image: url(../img/map-image1.jpg);
+  /* background-repeat: no-repeat;
+  background-position: center; */
+}
+.timeline>li .timeline-image {
+  background-color: white;
+}
+.timeline>li .timeline-image {
+  color: black;
+}
+.box15 {
+  padding: 0.2em 0.5em;
+  margin: 2em 0;
+  color: #565656;
+  font-size: 20px;
+  background: #ffeaea;
+  box-shadow: 0px 0px 0px 10px #ffeaea;
+  border: dashed 2px #ffc3c3;
+  border-radius: 8px;
+}
+.box15 p {
+  margin: 0; 
+  padding: 0;
+}
+.text-muted {
+  color: gray!important;
+}
+.thanksmessage {
+  font-size: 60px;
+  color: aliceblue;
+  margin: 10px auto;
+}
+.intro-lead-in {
+  transition: 0.8s;
+  transform: rotate(360deg);
+}
+.under {
+  text-align: center;
+  list-style: none;
+}
+.myimage {
+  height: 200px;
+  object-fit: contain;
+}
+
